@@ -2,6 +2,8 @@
 
 Hi, Welcome to this Guide Project. The Subject is to Run an Ethereum Validator Node Using Google Cloud Platform Services.
 
+![stackup x gcp](https://cdn.hackernoon.com/images/4jLd9wAdOWQW3iTiKFVy3oWadmu1-taa3w47.jpeg)
+
 I've created a Full Working Guide that walks you through the entire process involved from A - Z, which anyone can replicate to get a functioning node.
 
 The Guide Entails the Following Pointers:
